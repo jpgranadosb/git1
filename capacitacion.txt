@@ -1,0 +1,2 @@
+Para crear usuario: git config --global user.name jpgranados
+Asociar correo de la cuenta git config --global user.email jpgranados@modusoftware.com
